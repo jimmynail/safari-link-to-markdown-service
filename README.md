@@ -5,9 +5,9 @@ VERY handy if you do lots of note taking and url collecting in a markdown editor
 
 I find the Title very useful formatted this way:
 
-[Page title up to 30 chars… (sourcedomain.com)](https://sourcedomain.com/whatever.html)
+'[Page title up to 30 chars… (sourcedomain.com)](https://sourcedomain.com/whatever.html)'
 
-The sourcedomain.com extraction is reasonably smart. Discards www. but keeps most other subdomains. Seems to work across every weird case I've tried.
+The sourcedomain.com extraction is reasonably smart. Discards 'www.' but keeps most other subdomains. Seems to work across every weird case I've tried.
 
 Lots of complexity for something only a little bettern than "Command-L That will highlight the URL field Then just select Command-C to copy." but I still use it ~20x per day.
 
